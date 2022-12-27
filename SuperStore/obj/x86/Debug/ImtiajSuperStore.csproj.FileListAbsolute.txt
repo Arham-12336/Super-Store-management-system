@@ -1,0 +1,10 @@
+E:\ImtiajSuperStore\ImtiajSuperStore\bin\Debug\ImtiajSuperStore.exe
+E:\ImtiajSuperStore\ImtiajSuperStore\bin\Debug\ImtiajSuperStore.pdb
+E:\ImtiajSuperStore\ImtiajSuperStore\obj\x86\Debug\ImtiajSuperStore.Form1.resources
+E:\ImtiajSuperStore\ImtiajSuperStore\obj\x86\Debug\ImtiajSuperStore.Properties.Resources.resources
+E:\ImtiajSuperStore\ImtiajSuperStore\obj\x86\Debug\ImtiajSuperStore.csproj.GenerateResource.Cache
+E:\ImtiajSuperStore\ImtiajSuperStore\obj\x86\Debug\ImtiajSuperStore.exe
+E:\ImtiajSuperStore\ImtiajSuperStore\obj\x86\Debug\ImtiajSuperStore.pdb
+E:\ImtiajSuperStore\ImtiajSuperStore\obj\x86\Debug\ImtiajSuperStore.csprojResolveAssemblyReference.cache
+F:\Dha Suffa 2nd Semester\OOPTheory\ImtiajSuperStore\ImtiajSuperStore\obj\x86\Debug\ImtiajSuperStore.exe
+F:\Dha Suffa 2nd Semester\OOPTheory\ImtiajSuperStore\ImtiajSuperStore\obj\x86\Debug\ImtiajSuperStore.pdb
